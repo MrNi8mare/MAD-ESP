@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "254052936675",
+    "project_id": "lossfound-e8f2b",
+    "storage_bucket": "lossfound-e8f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254052936675:android:f7530fb061de46f8310ed6",
+        "android_client_info": {
+          "package_name": "com.example.lossfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254052936675-4621i04vrjoo9ahb1l4ktb4ousp0ab43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lossfound",
+            "certificate_hash": "49caf748ec44398634abd49db83530853860dc34"
+          }
+        },
+        {
+          "client_id": "254052936675-ju2k2chjvfcet9fo4bptusae896hctki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPm5e32yfBCNEOf6Nl2k7oELeEMmvHReU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254052936675-ju2k2chjvfcet9fo4bptusae896hctki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
